@@ -1,6 +1,6 @@
 # Custom Animation Using Lottie in Flutter >Topic : Simple Animation Widget "Lottie" package
 
-Package Link : https://lnkd.in/gaApaPz5
+Package Link : https://pub.dev/packages/lottie
 
 ## How to implement :
 
@@ -13,12 +13,11 @@ U can download the particular json file in your device , put it in your assets f
 * Lottie.network()
 Or you can use the more simple way . U can directly upload the file from the site in your app , but for this the app should have a active network connection.
 
-The code in available in my github : https://lnkd.in/gbZdMtKW
 
 
-Video explanation : https://lnkd.in/gQXYmX8t
+Video explanation : [https://lnkd.in/gQXYmX8t](https://www.youtube.com/watch?v=70UhM3mx4Cw)https://www.youtube.com/watch?v=70UhM3mx4Cw
 
-[![Demo App uploaded in linkedin ]([https://img.youtube.com/vi/YOUTUBE_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID](https://www.linkedin.com/feed/update/urn:li:activity:7144400925338611712/)https://www.linkedin.com/feed/update/urn:li:activity:7144400925338611712/)
+
 
 
 
